@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+html{color:#333;background:#fff; min-width:1000px;}
+body{font:12px/1.5 "Microsoft Yahei",Tahoma,Arial,Helvetica,sans-serif;word-break:break-all;word-wrap:break-word;}
+body,h1,h2,h3,h4,h5,h6,p,dl,dd{margin:0;}ul,ol,input{margin:0;padding:0;}li{list-style: none;}
+img{border:none;}table{border-collapse:collapse;border-spacing:0;}
+button,input,textarea,select{background: none; border:none;font-family:"Microsoft Yahei",Tahoma,Arial,Helvetica,sans-serif;vertical-align:middle;outline: none;}input:focus{outline: none;}
+a{text-decoration:none; color: #333;}
+a:hover{text-decoration:inline;color: #ff0101;}
+.clearfix { zoom:1}
+.clearfix:after{content: "";display: block; clear: both;}
+.clearDiv{clear:both;height:0;font-size:0; overflow: hidden;}
+.wrap{width:1000px;margin:0 auto;text-align: left;}
+.fl{float:left;}
+.fr{float:right;}
+ 
+.tit02{font:bold 40px/92px 'Microsoft Yahei'; color:#fff; text-align:center; background:url(../images/titbg2.png) no-repeat center center; }
+.tit02 span{color:#fff371; }
+.tit02 strong{font-size:44px; color:#0e0946; padding-right:20px; }
+.tit03{font:24px/1 'Microsoft Yahei'; text-align:center; color:#32feff; padding-top:29px;}
+ 
+
+
+
+
+
+.daka_box p{width:100%; font:14px/36px 'Microsoft Yahei'; color:#fff; position:absolute; left:0; bottom:0; background:url(../images/tm_bgrpt.png); text-align:center;}
+
+
+
+.daka_box p b{font-size:18px;}
+.picScroll_new{margin-bottom: 30px;width:950px;  overflow:hidden; position:relative;margin-top: 40px;}
+.picScroll_new .prev,.picScroll_new .next{ display:block; 
+    width: 48px;
+    height: 71px;
+	 position:absolute; 
+	 left:20px; 
+	 top:90px;
+}
+.picScroll_new .next{left:auto; right:36px;}
+.picScroll_new .bd ul{ overflow:hidden; zoom:1; }
+.picScroll_new .bd ul li{ margin-right:9px; float:left; _display:inline; overflow:hidden; text-align:center; position:relative;}
+.picScroll_new .bd ul li img{display:block; width:178px; height:219px;}
+.sec6m{margin:34px auto 50px; padding:40px 0 0; background:#230fab; height:535px;}
+ .picScroll_new .prev img, .picScroll_new .next img{
+ 	width: 100%;
+ 	height: 100%;
+ }
+
+
+
+
+
+
+
+
+
+
+
